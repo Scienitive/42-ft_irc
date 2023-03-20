@@ -31,6 +31,8 @@ With irssi you need to:
 
 After connecting the server you can join a channel and send messages in that channel.
 
+![Visual](./Assets/output.gif)
+
 ## Commands You Can Use
 
 - PASS [password]
